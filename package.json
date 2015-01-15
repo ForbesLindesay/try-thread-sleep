@@ -1,0 +1,20 @@
+{
+  "name": "try-thread-sleep",
+  "version": "0.0.0",
+  "description": "Use thread-sleep if native compilation succeeded, otherwise it's a noop",
+  "keywords": [],
+  "dependencies": {},
+  "optionalDependencies": {
+    "thread-sleep": "*"
+  },
+  "devDependencies": {
+    "thread-sleep": "*"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/try-thread-sleep.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
