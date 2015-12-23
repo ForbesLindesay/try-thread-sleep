@@ -3,7 +3,7 @@
 Use thread-sleep if native compilation succeeded, otherwise it's a noop
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/try-thread-sleep/master.svg)](https://travis-ci.org/ForbesLindesay/try-thread-sleep)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/try-thread-sleep.svg)](https://gemnasium.com/ForbesLindesay/try-thread-sleep)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/try-thread-sleep.svg)](https://david-dm.org/ForbesLindesay/try-thread-sleep)
 [![NPM version](https://img.shields.io/npm/v/try-thread-sleep.svg)](https://www.npmjs.org/package/try-thread-sleep)
 
 ## Installation
