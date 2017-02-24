@@ -1,5 +1,7 @@
 # try-thread-sleep
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/try-thread-sleep.svg)](https://greenkeeper.io/)
+
 Use thread-sleep if native compilation succeeded, otherwise it's a noop
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/try-thread-sleep/master.svg)](https://travis-ci.org/ForbesLindesay/try-thread-sleep)
