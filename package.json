@@ -5,10 +5,10 @@
   "keywords": [],
   "dependencies": {},
   "optionalDependencies": {
-    "thread-sleep": "*"
+    "thread-sleep": "^1.0.4"
   },
   "devDependencies": {
-    "thread-sleep": "*"
+    "thread-sleep": "^1.0.4"
   },
   "scripts": {},
   "repository": {
