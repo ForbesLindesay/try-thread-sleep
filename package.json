@@ -1,14 +1,14 @@
 {
   "name": "try-thread-sleep",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Use thread-sleep if native compilation succeeded, otherwise it's a noop",
   "keywords": [],
   "dependencies": {},
   "optionalDependencies": {
-    "thread-sleep": "^1.0.4"
+    "thread-sleep": "^2.0.0"
   },
   "devDependencies": {
-    "thread-sleep": "^1.0.4"
+    "thread-sleep": "^2.0.0"
   },
   "scripts": {},
   "repository": {
