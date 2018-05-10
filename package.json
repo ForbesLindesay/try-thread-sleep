@@ -1,6 +1,6 @@
 {
   "name": "try-thread-sleep",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Use thread-sleep if native compilation succeeded, otherwise it's a noop",
   "keywords": [],
   "dependencies": {},
